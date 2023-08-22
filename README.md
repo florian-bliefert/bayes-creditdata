@@ -7,7 +7,8 @@ Das ganze ist mit KNIME erstellt, hier sind alle notwendigen Dateien, um den Art
 KNIME speichert seine Projekte in einem workspace, die heruntergeladene knwf-Datei muss also in den eigenen Workspace kopiert werden (KNIME weist beim öffnen darauf hin). Danach müssen die Pfade für die zwei Dateien, die KNIME einliest, angepasst werden:
 - german.data
 - dictionary.csv
-Die Datei `dictionary.csv` habe ich aus der `german.doc`Datei aus dem Original-Download erstellt, damit die codierten Features sprechend sind.
+
+Die Datei `dictionary.csv` habe ich aus der `german.doc`Datei aus dem Original-Download von UCI erstellt, damit die codierten Features selbsterklärend sind.
 
 # Lizenz
 Das Projekt steht unter der Creative Common Lizenz CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)
