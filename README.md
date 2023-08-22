@@ -1,5 +1,5 @@
 # Predictive Analytics mit dem Bayes-Klassifizierer entdecken
-Im Controller Magazin 05/23 habe ich einen Artikel veröffentlicht, in dem ich eine Einführung in Predictive Analytics gebe. Dazu verwende ich Daten aus dem UCI-Repository (https://archive.ics.uci.edu/dataset/144/stat- log+german+credit+data), um einen Bayes-Klassifizierer zu erstellen, der einen möglichen Kreditausfall vorhersagt.
+Im Controller Magazin 05/23 habe ich einen Artikel veröffentlicht, in dem ich eine Einführung in Predictive Analytics gebe. Dazu verwende ich Daten aus dem UCI-Repository (https://archive.ics.uci.edu/dataset/144/stat-log+german+credit+data), um einen Bayes-Klassifizierer zu erstellen, der einen möglichen Kreditausfall vorhersagt.
 
 Das ganze ist mit KNIME erstellt, hier sind alle notwendigen Dateien, um den Artikel am eigenen Rechner nachvollziehen zu können.
 
